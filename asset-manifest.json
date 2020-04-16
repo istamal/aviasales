@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/github.io/aviasales/static/css/main.91fc976e.chunk.css",
-    "main.js": "/github.io/aviasales/static/js/main.3c7c5102.chunk.js",
-    "main.js.map": "/github.io/aviasales/static/js/main.3c7c5102.chunk.js.map",
+    "main.js": "/github.io/aviasales/static/js/main.b22d2040.chunk.js",
+    "main.js.map": "/github.io/aviasales/static/js/main.b22d2040.chunk.js.map",
     "runtime-main.js": "/github.io/aviasales/static/js/runtime-main.faf366d6.js",
     "runtime-main.js.map": "/github.io/aviasales/static/js/runtime-main.faf366d6.js.map",
-    "static/js/2.4a2b7752.chunk.js": "/github.io/aviasales/static/js/2.4a2b7752.chunk.js",
-    "static/js/2.4a2b7752.chunk.js.map": "/github.io/aviasales/static/js/2.4a2b7752.chunk.js.map",
+    "static/js/2.b0622dd6.chunk.js": "/github.io/aviasales/static/js/2.b0622dd6.chunk.js",
+    "static/js/2.b0622dd6.chunk.js.map": "/github.io/aviasales/static/js/2.b0622dd6.chunk.js.map",
     "index.html": "/github.io/aviasales/index.html",
-    "precache-manifest.1a80c66a49dbd7273d9217e676c06910.js": "/github.io/aviasales/precache-manifest.1a80c66a49dbd7273d9217e676c06910.js",
+    "precache-manifest.a050e5958f84fe0dc5d9f1dfe2b44ca7.js": "/github.io/aviasales/precache-manifest.a050e5958f84fe0dc5d9f1dfe2b44ca7.js",
     "service-worker.js": "/github.io/aviasales/service-worker.js",
     "static/css/main.91fc976e.chunk.css.map": "/github.io/aviasales/static/css/main.91fc976e.chunk.css.map",
-    "static/js/2.4a2b7752.chunk.js.LICENSE.txt": "/github.io/aviasales/static/js/2.4a2b7752.chunk.js.LICENSE.txt"
+    "static/js/2.b0622dd6.chunk.js.LICENSE.txt": "/github.io/aviasales/static/js/2.b0622dd6.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.faf366d6.js",
-    "static/js/2.4a2b7752.chunk.js",
+    "static/js/2.b0622dd6.chunk.js",
     "static/css/main.91fc976e.chunk.css",
-    "static/js/main.3c7c5102.chunk.js"
+    "static/js/main.b22d2040.chunk.js"
   ]
 }
